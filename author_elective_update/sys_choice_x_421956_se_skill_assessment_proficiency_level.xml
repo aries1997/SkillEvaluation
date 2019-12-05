@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="proficiency_level" table="x_421956_se_skill_assessment" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>proficiency_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Conceptual/Trained</label>
+            <language>en</language>
+            <name>x_421956_se_skill_assessment</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 03:53:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebaa444ddba18010c17adde74896191a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 03:58:25</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>proficiency_level</element>
+            <name>x_421956_se_skill_assessment</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 03:53:04</sys_created_on>
+            <sys_id>59aa484ddba18010c17adde7489619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>proficiency_level</sys_name>
+            <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+            <sys_update_name>sys_choice_x_421956_se_skill_assessment_proficiency_level</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 03:53:04</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</application>
+        <file_path/>
+        <instance_id>27d6534ddbcbd3c00e785d00cf9619d1</instance_id>
+        <instance_name>dev63068</instance_name>
+        <name>sys_choice_x_421956_se_skill_assessment_proficiency_level</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="proficiency_level" table="x_421956_se_skill_assessment" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>proficiency_level</element><hint/><inactive>false</inactive><label>Conceptual/Trained</label><language>en</language><name>x_421956_se_skill_assessment</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 03:53:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ebaa444ddba18010c17adde74896191a</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 03:58:25</sys_updated_on><value>2</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>proficiency_level</element><name>x_421956_se_skill_assessment</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 03:53:04</sys_created_on><sys_id>59aa484ddba18010c17adde7489619ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>proficiency_level</sys_name><sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package><sys_policy/><sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope><sys_update_name>sys_choice_x_421956_se_skill_assessment_proficiency_level</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 03:53:04</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1728267269</payload_hash>
+        <record_name>Skill Assessment.Proficiency level</record_name>
+        <reverted_from/>
+        <source>3b1c62e0dbad0010c17adde7489619e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 04:00:40</sys_created_on>
+        <sys_id>246c0ccddba18010c17adde7489619f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ecf1131620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 04:00:40</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>ac6c0ccd41a18010f754deb6e9ac1af4</update_guid>
+        <update_guid_history>ac6c0ccd41a18010f754deb6e9ac1af4:1728267269,e46c0ccdc8a18010644d41ec65d982f2:154226352,a06c40cd01a180100da1afa86362b4f5:94879134,a86c40cddda1801005a54a761ec383f2:-1028023980,61eb0c8d03a18010b257d9e5f13e79d0:620809801,fceb088d6aa180107e71d535888e0795:1208272072,8ceb088d71a180108e6d7382233d715d:1592447721,afdb0c8d93a18010247bea03e1be3ccb:1639843944,3edb088da7a18010916b0e30b9035a91:1704808771,238b0c8d15a18010f47f558360196147:1180821320,c1fa808d50a18010b82fc92519919d5f:-1367420222,14facc4d89a18010a6cbb8b638246049:1212384285,21eac84dc9a18010f828d083b0bad22a:-910245294,e0ea444d65a180106f8cdd9077d8de6b:-1028870392,7eda444d41a18010abaf54fe625bcd3a:-658749766,51da4c4dbca1801006958ca52e635af5:1398283413,0dca484d06a18010f9bdffdd6af89c5f:943986865,efba044d4ba1801008ea113c45b86283:377037355,d1aa484d75a18010395ecf33e11586d0:-1547613633</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 04:00:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>59aa484ddba18010c17adde7489619ce</sys_id>
+        <sys_metadata>59aa484ddba18010c17adde7489619ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>proficiency_level</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_scope_delete display_value="">5bd78e59b5974f20b73d0928a3107f90</sys_scope_delete>
+        <sys_update_name>sys_choice_x_421956_se_skill_assessment_proficiency_level</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_421956_se_skill_assessment_proficiency_level">246c0ccddba18010c17adde7489619f5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 04:00:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

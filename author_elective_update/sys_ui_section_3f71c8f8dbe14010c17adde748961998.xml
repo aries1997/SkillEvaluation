@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="3f71c8f8dbe14010c17adde748961998" sys_domain="global" table="u_imp_tmpl_x_421956_se_certificate" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 08:34:37</sys_created_on>
+            <sys_id>7f71c8f8dbe14010c17adde748961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 08:34:37</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_product_line</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 08:34:37</sys_created_on>
+            <sys_id>ff71c8f8dbe14010c17adde748961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 08:34:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u__</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 08:34:37</sys_created_on>
+            <sys_id>7371c8f8dbe14010c17adde74896199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 08:34:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 08:34:37</sys_created_on>
+            <sys_id>f371c8f8dbe14010c17adde74896199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 08:34:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_certificate</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 08:34:37</sys_created_on>
+            <sys_id>7771c8f8dbe14010c17adde74896199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 08:34:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 08:34:37</sys_created_on>
+            <sys_id>f771c8f8dbe14010c17adde74896199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 08:34:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template_import_log.message</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 08:34:37</sys_created_on>
+            <sys_id>7b71c8f8dbe14010c17adde74896199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 08:34:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_imp_tmpl_x_421956_se_certificate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 08:34:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f71c8f8dbe14010c17adde748961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_imp_tmpl_x_421956_se_certificate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+            <sys_update_name>sys_ui_section_3f71c8f8dbe14010c17adde748961998</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 08:34:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</application>
+        <file_path/>
+        <instance_id>27d6534ddbcbd3c00e785d00cf9619d1</instance_id>
+        <instance_name>dev63068</instance_name>
+        <name>sys_ui_section_3f71c8f8dbe14010c17adde748961998</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="3f71c8f8dbe14010c17adde748961998" sys_domain="global" table="u_imp_tmpl_x_421956_se_certificate" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 08:34:37</sys_created_on><sys_id>7f71c8f8dbe14010c17adde748961999</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 08:34:37</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_product_line</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 08:34:37</sys_created_on><sys_id>ff71c8f8dbe14010c17adde748961999</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 08:34:37</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u__</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 08:34:37</sys_created_on><sys_id>7371c8f8dbe14010c17adde74896199a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 08:34:37</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 08:34:37</sys_created_on><sys_id>f371c8f8dbe14010c17adde74896199a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 08:34:37</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_certificate</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 08:34:37</sys_created_on><sys_id>7771c8f8dbe14010c17adde74896199a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 08:34:37</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 08:34:37</sys_created_on><sys_id>f771c8f8dbe14010c17adde74896199a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 08:34:37</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>template_import_log.message</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 08:34:37</sys_created_on><sys_id>7b71c8f8dbe14010c17adde74896199a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_421956_se_certificate" sys_domain="global" view="Default view">3f71c8f8dbe14010c17adde748961998</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 08:34:37</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>u_imp_tmpl_x_421956_se_certificate</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 08:34:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3f71c8f8dbe14010c17adde748961998</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_imp_tmpl_x_421956_se_certificate</sys_name><sys_overrides/><sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package><sys_policy/><sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope><sys_update_name>sys_ui_section_3f71c8f8dbe14010c17adde748961998</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 08:34:37</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>2142651266</payload_hash>
+        <record_name>Imp Tmpl X 421956 Se Certificate</record_name>
+        <reverted_from/>
+        <source>3b1c62e0dbad0010c17adde7489619e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 08:34:37</sys_created_on>
+        <sys_id>b771c8f8dbe14010c17adde74896199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ecae5a3530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 08:34:37</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>3371c8f8cae14010853f08be666bf49c</update_guid>
+        <update_guid_history>3371c8f8cae14010853f08be666bf49c:2142651266</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 08:54:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>21ee3451707245cf8885d904867aeb09</sys_id>
+        <sys_metadata>3f71c8f8dbe14010c17adde748961998</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_imp_tmpl_x_421956_se_certificate</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_parent display_value="">a371c8f8dbe14010c17adde74896196e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_scope_delete display_value="">5bd78e59b5974f20b73d0928a3107f90</sys_scope_delete>
+        <sys_update_name>sys_ui_section_3f71c8f8dbe14010c17adde748961998</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_3f71c8f8dbe14010c17adde748961998">b771c8f8dbe14010c17adde74896199c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 08:54:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

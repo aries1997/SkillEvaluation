@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Certificate" max_length="40" name="x_421956_se_certificate" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Certificate name" mandatory="true" max_length="100" name="certificate_name" type="string"/>
+        <element attributes="encode_utf8=false" label="Product line" max_length="32" name="product_line" reference="x_421956_se_product_line" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="product_line"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

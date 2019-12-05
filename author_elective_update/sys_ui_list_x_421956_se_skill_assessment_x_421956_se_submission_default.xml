@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="x_421956_se_submission" relationship="" sys_domain="global" table="x_421956_se_skill_assessment" version="2" view="default">
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_421956_se_skill_assessment</name>
+            <parent>x_421956_se_submission</parent>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 13:34:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b86fc64ddba98010c17adde7489619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_421956_se_skill_assessment</sys_name>
+            <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+            <sys_update_name>sys_ui_list_x_421956_se_skill_assessment_x_421956_se_submission_default</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 13:34:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default" name="default">30174876cb811200aa871831794c9cc4</view>
+            <view_name/>
+        </sys_ui_list>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_421956_se_skill_assessment</name>
+            <parent>x_421956_se_submission</parent>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 13:34:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b86fc64ddba98010c17adde7489619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_421956_se_skill_assessment</sys_name>
+            <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+            <sys_update_name>sys_ui_list_x_421956_se_skill_assessment_x_421956_se_submission_default</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 13:34:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default" name="default">30174876cb811200aa871831794c9cc4</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</application>
+        <file_path/>
+        <instance_id>27d6534ddbcbd3c00e785d00cf9619d1</instance_id>
+        <instance_name>dev63068</instance_name>
+        <name>sys_ui_list_x_421956_se_skill_assessment_x_421956_se_submission_default</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="x_421956_se_submission" relationship="" sys_domain="global" table="x_421956_se_skill_assessment" version="2" view="default"><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_421956_se_skill_assessment</name><parent>x_421956_se_submission</parent><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 13:34:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b86fc64ddba98010c17adde7489619ae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_421956_se_skill_assessment</sys_name><sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package><sys_policy/><sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope><sys_update_name>sys_ui_list_x_421956_se_skill_assessment_x_421956_se_submission_default</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 13:34:01</sys_updated_on><sys_user/><view display_value="Default" name="default">30174876cb811200aa871831794c9cc4</view><view_name/></sys_ui_list><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_421956_se_skill_assessment</name><parent>x_421956_se_submission</parent><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 13:34:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b86fc64ddba98010c17adde7489619ae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_421956_se_skill_assessment</sys_name><sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package><sys_policy/><sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope><sys_update_name>sys_ui_list_x_421956_se_skill_assessment_x_421956_se_submission_default</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 13:34:01</sys_updated_on><sys_user/><view display_value="Default" name="default">30174876cb811200aa871831794c9cc4</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>293320364</payload_hash>
+        <record_name>Submission.Skill Assessment</record_name>
+        <reverted_from/>
+        <source>3b1c62e0dbad0010c17adde7489619e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 13:41:37</sys_created_on>
+        <sys_id>aa511a01dbe98010c17adde74896192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ed1250e9f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 13:41:37</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>6a511a01ace980105eaacc85029c3d2e</update_guid>
+        <update_guid_history>6a511a01ace980105eaacc85029c3d2e:293320364</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 13:41:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>72899bd690e747e195f13a6d2348f619</sys_id>
+        <sys_metadata>b86fc64ddba98010c17adde7489619ae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_421956_se_skill_assessment</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_parent display_value="Skill Assessment">27d07ee4dbad0010c17adde7489619bb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_scope_delete display_value="">5bd78e59b5974f20b73d0928a3107f90</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_421956_se_skill_assessment_x_421956_se_submission_default</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_421956_se_skill_assessment_x_421956_se_submission_default">aa511a01dbe98010c17adde74896192e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 13:41:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

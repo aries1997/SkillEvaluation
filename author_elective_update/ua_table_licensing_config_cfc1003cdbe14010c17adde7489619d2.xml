@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_421956_se_cert</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 08:35:56</sys_created_on>
+        <sys_id>cfc1003cdbe14010c17adde7489619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_421956_se_cert</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_update_name>ua_table_licensing_config_cfc1003cdbe14010c17adde7489619d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 08:35:56</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</application>
+        <file_path/>
+        <instance_id>27d6534ddbcbd3c00e785d00cf9619d1</instance_id>
+        <instance_name>dev63068</instance_name>
+        <name>ua_table_licensing_config_cfc1003cdbe14010c17adde7489619d2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_421956_se_cert</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 08:35:56</sys_created_on><sys_id>cfc1003cdbe14010c17adde7489619d2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_421956_se_cert</sys_name><sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package><sys_policy/><sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope><sys_update_name>ua_table_licensing_config_cfc1003cdbe14010c17adde7489619d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 08:35:56</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>805011511</payload_hash>
+        <record_name>x_421956_se_cert</record_name>
+        <reverted_from/>
+        <source>3b1c62e0dbad0010c17adde7489619e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 08:35:56</sys_created_on>
+        <sys_id>c7c1003cdbe14010c17adde7489619d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ecae6d6f30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 08:35:56</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>03c1003cafe1401005b4aad2213d5cd4</update_guid>
+        <update_guid_history>03c1003cafe1401005b4aad2213d5cd4:805011511</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 08:54:30</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>903ec89054424c7aaa9d0896f48866c1</sys_id>
+        <sys_metadata>cfc1003cdbe14010c17adde7489619d2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_421956_se_cert</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_scope_delete display_value="">5bd78e59b5974f20b73d0928a3107f90</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_cfc1003cdbe14010c17adde7489619d2</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_cfc1003cdbe14010c17adde7489619d2">c7c1003cdbe14010c17adde7489619d4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 08:54:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_421956_se.se_admin" name="x_421956_se.se_admin">1f2ce228dbe90010c17adde748961988</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 02:21:51</sys_created_on>
+        <sys_id>1f2c66e0dbad0010c17adde74896196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1f2ce228dbe90010c17adde748961988</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1f2c66e0dbad0010c17adde74896196f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 02:21:51</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

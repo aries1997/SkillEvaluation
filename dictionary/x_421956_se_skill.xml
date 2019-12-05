@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Skill" max_length="40" name="x_421956_se_skill" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" type="string" use_dynamic_default="true"/>
+        <element attributes="encode_utf8=false" label="Product line" max_length="32" name="product_line" reference="x_421956_se_product_line" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Skill description" mandatory="true" max_length="100" name="skill_description" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Weight" max_length="40" name="weight" type="integer"/>
+        <index name="index">
+            <element name="product_line"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

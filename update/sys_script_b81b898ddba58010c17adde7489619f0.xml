@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_421956_se_submission</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>SE_CalPro</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions>x_421956_se.se_user</role_conditions>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+	var score = 0;
+	var get_score = new GlideRecord("x_421956_se_skill_assessment");
+	get_score.addQuery("submission.sys_id", current.sys_id);
+	get_score.addQuery("proficiency_level", "!=", "0");
+	get_score.query();
+	while(get_score.next()){		
+			var n = parseInt(get_score.proficiency_level);
+			score += n;
+	}
+	current.score = score;
+	var get_value = new GlideRecord("x_421956_se_level");
+	get_value.addQuery("min_score", "<=", current.score);
+	get_value.orderByDesc('min_score');
+	get_value.setLimit(1);
+	get_value.query();
+	get_value.next();
+	current.level = get_value.sys_id;
+// 	var max = 0;
+// 	while(get_value.next()){
+// 		max = (max < get_value.min_score) ? get_value.min_score : max;
+// 		gs.info("[current level value 1: ]" + current.level.level);
+// 	}
+// 		get_value.addQuery("min_score", max);
+// 		get_value.query();
+// 		current.level = get_value.sys_id;
+	current.update();
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 08:44:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b81b898ddba58010c17adde7489619f0</sys_id>
+        <sys_mod_count>62</sys_mod_count>
+        <sys_name>SE_CalPro</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_update_name>sys_script_b81b898ddba58010c17adde7489619f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-05 08:38:50</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=b81b898ddba58010c17adde7489619f0"/>
+</record_update>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="state" table="x_421956_se_submission" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reviewed</label>
+            <language>en</language>
+            <name>x_421956_se_submission</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 05:49:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2cbbd324db614010c17adde74896197b</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 05:55:10</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_421956_se_submission</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 05:49:28</sys_created_on>
+            <sys_id>a4bbd324db614010c17adde748961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+            <sys_update_name>sys_choice_x_421956_se_submission_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 05:49:28</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</application>
+        <file_path/>
+        <instance_id>27d6534ddbcbd3c00e785d00cf9619d1</instance_id>
+        <instance_name>dev63068</instance_name>
+        <name>sys_choice_x_421956_se_submission_state</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="state" table="x_421956_se_submission" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Reviewed</label><language>en</language><name>x_421956_se_submission</name><sequence>2</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 05:49:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2cbbd324db614010c17adde74896197b</sys_id><sys_mod_count>4</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 05:55:10</sys_updated_on><value>10</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>state</element><name>x_421956_se_submission</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 05:49:28</sys_created_on><sys_id>a4bbd324db614010c17adde748961978</sys_id><sys_mod_count>0</sys_mod_count><sys_name>state</sys_name><sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package><sys_policy/><sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope><sys_update_name>sys_choice_x_421956_se_submission_state</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 05:49:28</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1114689244</payload_hash>
+        <record_name>Submission.state</record_name>
+        <reverted_from/>
+        <source>3b1c62e0dbad0010c17adde7489619e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 06:00:41</sys_created_on>
+        <sys_id>304e9fe4db614010c17adde7489619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16eca58b36a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 06:00:41</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>b84e9fe4ef6140104b7a5728d74c8ee7</update_guid>
+        <update_guid_history>b84e9fe4ef6140104b7a5728d74c8ee7:1114689244,673edfe45d6140108397c34346cd557a:1320198575,0e3e9be4756140100d6f6f9f2f7b24dd:-916197249,f03ed7e47a614010f1775c7ec2d1d45d:1221316231,4c0d5ba438614010cbb5442290657318:178752364,03dc97a4eb6140107cb44908189fc2cd:-125657398,906c9b24c06140101058f76d610d3554:-1979876337,494cdb64046140100eb21390b2a6c3f7:178752364,f23cdb641961401096b02e42d16d9578:-1979876337,300c1b64fe614010c3bb10051806c702:-740580449,64bbd364b961401070c335ef84cd3d31:1221316231</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 06:00:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>a4bbd324db614010c17adde748961978</sys_id>
+        <sys_metadata>a4bbd324db614010c17adde748961978</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_scope_delete display_value="">5bd78e59b5974f20b73d0928a3107f90</sys_scope_delete>
+        <sys_update_name>sys_choice_x_421956_se_submission_state</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_421956_se_submission_state">304e9fe4db614010c17adde7489619e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 06:00:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
