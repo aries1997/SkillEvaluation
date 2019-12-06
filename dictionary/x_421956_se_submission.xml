@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Submission" max_length="40" name="x_421956_se_submission" sizeclass="5" type="collection">
+    <element audit="true" extends="task" label="Submission" max_length="40" name="x_421956_se_submission" sizeclass="5" type="collection">
         <element attributes="encode_utf8=false" label="Level" max_length="32" name="level" read_only="true" reference="x_421956_se_level" type="reference"/>
         <element label="Score" max_length="40" name="score" read_only="true" type="integer"/>
         <element default="true" label="Valid" max_length="40" name="valid" read_only="true" type="boolean"/>

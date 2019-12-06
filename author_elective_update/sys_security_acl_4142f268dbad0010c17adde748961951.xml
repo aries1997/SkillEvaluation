@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition table="x_421956_se_cert_acquisition">submission.state=1^EQ<item display_value="1" endquery="false" field="submission.state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>Allow write for records in x_421956_se_cert_acquisition, for users with role x_421956_se.se_user, and if the ACL condition (submission.state=1^EQ) evaluates to true.</description>
+        <name>x_421956_se_cert_acquisition</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 02:48:27</sys_created_on>
+        <sys_id>4142f268dbad0010c17adde748961951</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_421956_se_cert_acquisition</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_update_name>sys_security_acl_4142f268dbad0010c17adde748961951</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-06 09:09:46</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</application>
+        <file_path/>
+        <instance_id>27d6534ddbcbd3c00e785d00cf9619d1</instance_id>
+        <instance_name>dev63068</instance_name>
+        <name>sys_security_acl_4142f268dbad0010c17adde748961951</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>true</advanced><condition table="x_421956_se_cert_acquisition">submission.state=1^EQ<item display_value="1" endquery="false" field="submission.state" goto="false" newquery="false" operator="=" or="false" value="1"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><description>Allow write for records in x_421956_se_cert_acquisition, for users with role x_421956_se.se_user, and if the ACL condition (submission.state=1^EQ) evaluates to true.</description><name>x_421956_se_cert_acquisition</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 02:48:27</sys_created_on><sys_id>4142f268dbad0010c17adde748961951</sys_id><sys_mod_count>4</sys_mod_count><sys_name>x_421956_se_cert_acquisition</sys_name><sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package><sys_policy/><sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope><sys_update_name>sys_security_acl_4142f268dbad0010c17adde748961951</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-06 09:09:46</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1282216044</payload_hash>
+        <record_name>x_421956_se_cert_acquisition</record_name>
+        <reverted_from/>
+        <source>3b1c62e0dbad0010c17adde7489619e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-06 09:09:46</sys_created_on>
+        <sys_id>f746e729db6d0410c17adde748961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16eda78e40e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-06 09:09:46</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>7346e7295b6d0410b91d225c244eab00</update_guid>
+        <update_guid_history>7346e7295b6d0410b91d225c244eab00:-1282216044,a720e7a11e6d04105879edfe3a785649:1261064679,c80027a10c6d041032b2b71ca3315a21:-1282216044,41585f29b32d0410fd7948c55dcc4b3d:13483859,0142f26867ad001055b06edf9438a953:-1237460522</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-06 09:35:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>269384bc664b468ca3664e50ccb53921</sys_id>
+        <sys_metadata>4142f268dbad0010c17adde748961951</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_421956_se_cert_acquisition</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_parent display_value="x_421956_se_cert_acquisition">5442b268dbad0010c17adde7489619c4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_scope_delete display_value="">5bd78e59b5974f20b73d0928a3107f90</sys_scope_delete>
+        <sys_update_name>sys_security_acl_4142f268dbad0010c17adde748961951</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_4142f268dbad0010c17adde748961951">f746e729db6d0410c17adde748961900</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-06 09:35:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_role">
+    <sys_ui_action_role action="DELETE">
+        <sys_class_name>sys_ui_action_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-06 07:23:26</sys_created_on>
+        <sys_id>20ed87addbe90410c17adde74896192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit for Review.x_421956_se.se_user</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_ui_action display_value="Submit for Review">51741cc5dbe18010c17adde74896196e</sys_ui_action>
+        <sys_update_name>sys_ui_action_role_20ed87addbe90410c17adde74896192f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-06 07:23:26</sys_updated_on>
+        <sys_user_role display_value="x_421956_se.se_user" name="x_421956_se.se_user">5f2c6ea0dbad0010c17adde748961991</sys_user_role>
+    </sys_ui_action_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</application>
+        <file_path/>
+        <instance_id>27d6534ddbcbd3c00e785d00cf9619d1</instance_id>
+        <instance_name>dev63068</instance_name>
+        <name>sys_ui_action_role_20ed87addbe90410c17adde74896192f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_role"><sys_ui_action_role action="INSERT_OR_UPDATE"><sys_class_name>sys_ui_action_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-06 07:23:26</sys_created_on><sys_id>20ed87addbe90410c17adde74896192f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Submit for Review.x_421956_se.se_user</sys_name><sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package><sys_policy/><sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope><sys_ui_action display_value="Submit for Review">51741cc5dbe18010c17adde74896196e</sys_ui_action><sys_update_name>sys_ui_action_role_20ed87addbe90410c17adde74896192f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-06 07:23:26</sys_updated_on><sys_user_role display_value="x_421956_se.se_user" name="x_421956_se.se_user">5f2c6ea0dbad0010c17adde748961991</sys_user_role></sys_ui_action_role></record_update>]]></payload>
+        <payload_hash>470975678</payload_hash>
+        <record_name>Submit for Review.x_421956_se.se_user</record_name>
+        <reverted_from/>
+        <source>3b1c62e0dbad0010c17adde7489619e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-06 07:23:26</sys_created_on>
+        <sys_id>5afdcb6ddbe90410c17adde7489619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16eda178c120000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-06 07:23:26</sys_updated_on>
+        <type>UI Action Role</type>
+        <update_guid>92fdcb6d67e90410457bf553c38181f0</update_guid>
+        <update_guid_history>92fdcb6d67e90410457bf553c38181f0:470975678</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-06 07:34:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_action_role">sys_ui_action_role</sys_db_object>
+        <sys_id>41b819f74d50496aa8dc07d9e2373079</sys_id>
+        <sys_metadata>20ed87addbe90410c17adde74896192f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit for Review.x_421956_se.se_user</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_scope_delete display_value="">5bd78e59b5974f20b73d0928a3107f90</sys_scope_delete>
+        <sys_update_name>sys_ui_action_role_20ed87addbe90410c17adde74896192f</sys_update_name>
+        <sys_update_version display_value="sys_ui_action_role_20ed87addbe90410c17adde74896192f">5afdcb6ddbe90410c17adde7489619f0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-06 07:34:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -4,15 +4,29 @@
             <element>work_notes</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-03 16:01:41</sys_created_on>
-            <sys_id>68d725f8db694010c17adde74896196d</sys_id>
+            <sys_created_on>2019-12-06 06:49:48</sys_created_on>
+            <sys_id>e1460365dbe90410c17adde74896190c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_421956_se_submission" sys_domain="global" view="Default view">acd7e1f8db694010c17adde7489619da</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-03 16:01:41</sys_updated_on>
+            <sys_updated_on>2019-12-06 06:49:48</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-06 06:49:48</sys_created_on>
+            <sys_id>65460365dbe90410c17adde74896190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_421956_se_submission" sys_domain="global" view="Default view">acd7e1f8db694010c17adde7489619da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-06 06:49:48</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Notes</caption>

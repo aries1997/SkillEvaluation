@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-06 04:22:42</sys_created_on>
+        <sys_id>0e742625db690410c17adde7489619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_421956_se.se_admin</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_security_acl display_value="">7874a6a1db690410c17adde7489619e0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0e742625db690410c17adde7489619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-06 04:22:42</sys_updated_on>
+        <sys_user_role display_value="x_421956_se.se_admin" name="x_421956_se.se_admin">1f2ce228dbe90010c17adde748961988</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</application>
+        <file_path/>
+        <instance_id>27d6534ddbcbd3c00e785d00cf9619d1</instance_id>
+        <instance_name>dev63068</instance_name>
+        <name>sys_security_acl_role_0e742625db690410c17adde7489619f7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-06 04:22:42</sys_created_on><sys_id>0e742625db690410c17adde7489619f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_421956_se.se_admin</sys_name><sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package><sys_policy/><sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope><sys_security_acl display_value="">7874a6a1db690410c17adde7489619e0</sys_security_acl><sys_update_name>sys_security_acl_role_0e742625db690410c17adde7489619f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-06 04:22:42</sys_updated_on><sys_user_role display_value="x_421956_se.se_admin" name="x_421956_se.se_admin">1f2ce228dbe90010c17adde748961988</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1256711892</payload_hash>
+        <record_name>.x_421956_se.se_admin</record_name>
+        <reverted_from/>
+        <source>3b1c62e0dbad0010c17adde7489619e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-06 04:22:42</sys_created_on>
+        <sys_id>72946a25db690410c17adde74896198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ed97214320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-06 04:22:42</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>ba946a25ea6904101d75f56f26ae6f8b</update_guid>
+        <update_guid_history>ba946a25ea6904101d75f56f26ae6f8b:-1256711892</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_421956_se.se_admin">f047eae5db690410c17adde7489619a0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-06 04:34:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>08a3eec15bca41c480ff53fb0f625ee1</sys_id>
+        <sys_metadata>0e742625db690410c17adde7489619f7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_421956_se.se_admin</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421956_se">371c62e0dbad0010c17adde7489619e5</sys_package>
+        <sys_parent display_value="x_421956_se_skill_assessment">7874a6a1db690410c17adde7489619e0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">371c62e0dbad0010c17adde7489619e5</sys_scope>
+        <sys_scope_delete display_value="">5bd78e59b5974f20b73d0928a3107f90</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_0e742625db690410c17adde7489619f7</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_0e742625db690410c17adde7489619f7">72946a25db690410c17adde74896198c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-06 04:34:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

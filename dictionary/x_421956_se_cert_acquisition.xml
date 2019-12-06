@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Cert Acquisition" max_length="40" name="x_421956_se_cert_acquisition" type="collection">
-        <element attributes="encode_utf8=false" label="Certificate" max_length="32" name="certificate" reference="x_421956_se_certificate" type="reference"/>
+        <element attributes="encode_utf8=false" label="Certificate" mandatory="true" max_length="32" name="certificate" reference="x_421956_se_certificate" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Certificated date" max_length="40" name="certificated_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Certificate number" max_length="40" name="certificate_number" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
